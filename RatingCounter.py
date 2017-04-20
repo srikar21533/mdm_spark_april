@@ -11,3 +11,4 @@ class MRRatingCounter(MRJob):
 if __name__ == '__main__':
     MRRatingCounter.run()
     
+## Map Reduce end
