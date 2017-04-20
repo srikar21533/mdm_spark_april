@@ -26,3 +26,6 @@ class SpendByCustomerSorted(MRJob):
 if __name__ == '__main__':
     SpendByCustomerSorted.run()
     
+	
+# Map Reduce Steps
+""" This is sample for multiple mapper and reducers"
